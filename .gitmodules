@@ -1,0 +1,12 @@
+[submodule "themes/writeonly"]
+	path = themes/writeonly
+	url = https://gitlab.com/writeonlyhugo/writeonlyhugo-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/coloryourworld"]
+	path = themes/coloryourworld
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

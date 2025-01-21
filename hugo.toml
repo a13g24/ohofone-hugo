@@ -1,0 +1,34 @@
+# https://gohugo.io/getting-started/configuration/
+
+baseURL = "https://ohof.one/"
+languageCode = "en-us"
+
+title = "ohof.one"
+theme = "beautifulhugo"
+summaryLength = 10 
+
+[Params]
+subtitle = "A personal blog about programming, technology, and life."
+mainSections = ["post", "posts"]
+logo = "img/coyote-head-icon.png"
+favicon = "img/coyote-head-icon-blue.png"
+dateFormat = "January 2, 2006"
+wordCount = true
+socialShare = false 
+comments = true
+pygmentsStyle = "friendly"
+
+[Params.author]
+name = "Aaron"
+website = "https://ohof.one"
+email = "aaron@ohof.one"
+linkedin = "https://www.linkedin.com/in/aaron-m-gomez/"
+github = "https://github.com/a13g24"
+discord = "invite code (https://discord.gg/yrWNWP66ec"
+
+
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 1
