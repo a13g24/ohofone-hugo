@@ -14,3 +14,4 @@ Some of my hobbies include:
 - Programming
 - Playing and making music (guitar, piano, Bitwig)
 - Exploring the outdoors with my family
+
