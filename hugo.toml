@@ -1,6 +1,6 @@
 # https://gohugo.io/getting-started/configuration/
 
-baseURL = "https://ohof.one/"
+baseURL = "/"
 languageCode = "en-us"
 
 title = "ohof.one"
