@@ -3,6 +3,13 @@ date: '2025-01-21T02:06:50-07:00'
 draft: false
 title: 'A New Year'
 katex: true
+summary: 'Setting achievable goals for the new year'
+tags: 
+    - life
+    - personal
+    - goals
+    - new year
+    - growth
 ---
 
 ## Achievable Growth
