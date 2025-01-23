@@ -18,7 +18,7 @@ summaryLength = 10
 [Params]
 subtitle = "A personal blog about programming, technology, and life."
 mainSections = ["post", "posts"]
-logo = "img/coyote-head-icon.png"
+logo = "img/coyote-head-logo.png"
 favicon = "img/coyote-head-icon-blue.png"
 dateFormat = "January 2, 2006"
 wordCount = true
