@@ -8,6 +8,13 @@ title = "ohof.one"
 theme = "beautifulhugo"
 summaryLength = 10 
 
+[markup]
+    [markup.goldmark]
+    [markup.goldmark.parser]
+        wrapStandAloneImageWithinParagraph = false
+        [markup.goldmark.parser.attribute]
+            block = true
+
 [Params]
 subtitle = "A personal blog about programming, technology, and life."
 mainSections = ["post", "posts"]

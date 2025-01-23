@@ -6,6 +6,8 @@ subtitle: 'A Brief Story of Myself'
 katex: true
 ---
 
+![Me](/img/me-about-small.png "Me")
+
 My name is Aaron. I am a software engineer and overall nerd. I have a passion for learning and sharing my knowledge with others. I enjoy learning about new ideas, technologies and concepts. I also enjoy writing about my experiences and sharing my thoughts with others.
 
 Some of my hobbies include:
