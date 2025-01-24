@@ -4,7 +4,7 @@ baseURL = "https://ohof.one"
 canonifyURLs = true
 languageCode = "en-us"
 
-title = "ohof.one"
+title = "OH of ONE"
 theme = "beautifulhugo"
 summaryLength = 10 
 
