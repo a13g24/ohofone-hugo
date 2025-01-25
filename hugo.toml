@@ -16,7 +16,7 @@ summaryLength = 10
             block = true
 
 [Params]
-subtitle = "A personal blog about programming, technology, and life."
+subtitle = "A personal blog about programming, ideas, and life."
 mainSections = ["post", "posts"]
 logo = "img/coyote-head-logo.png"
 favicon = "img/coyote-head-logo-blue.png"
