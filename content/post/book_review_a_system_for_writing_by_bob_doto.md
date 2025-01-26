@@ -1,6 +1,6 @@
 ---
 date: '2025-01-26T00:02:05-07:00'
-draft: true
+draft: false
 title: 'Book Review: A System for Writing by Bob Doto'
 katex: true
 summary: 'A review of the book "A System for Writing" by Bob Doto. The book is a primer on how to organize and utilize a Zettelkasten (ZK) for writing and idea generation.'
