@@ -3,7 +3,7 @@ date: '2025-02-02T01:29:34-07:00'
 draft: false
 title: 'Book Review: A Mothers Reckoning'
 katex: true
-summary: "A review of the book 'A Mother's Reckoning' by Sue Klebold. The book is a memoir of the mother of Dylan Klebold, one of the perpetrators of the Columbine High School"
+summary: "A review of the book 'A Mother's Reckoning' by Sue Klebold. The book is a memoir of the mother of Dylan Klebold, one of the perpetrators of the Columbine High School tragedy"
 tags: ["book review", "mental health", "parenting"]
 ---
 
