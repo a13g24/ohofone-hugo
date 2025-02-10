@@ -1,6 +1,6 @@
 ---
 date: '2025-02-09T21:53:07-07:00'
-draft: true
+draft: false
 title: 'Is This What You Really Want?'
 katex: true
 summary: "A reflection on the dangers of perfectionism and the importance of balance in life."
