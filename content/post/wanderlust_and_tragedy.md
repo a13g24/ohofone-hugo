@@ -29,7 +29,7 @@ But even in the less extreme manifestations of this romantic call to adventure, 
 
 ## A Peculiar Thing
 
-Suddend tragedy is such a mysterious thing to experience: A person is there one moment, then gone or unavailable the next. I'm reminded of my late friend Paul's motorcycle accident in 2015, or my Uncle's in 1994, and how peculiar it is to suddenly have no access to a person who is right in front of you; their body there, but the inability to interact with their being is palpable.
+Sudden tragedy is such a mysterious thing to experience: A person is there one moment, then gone or unavailable the next. I'm reminded of my late friend Paul's motorcycle accident in 2015, or my Uncle's in 1994, and how peculiar it is to suddenly have no access to a person who is right in front of you; their body there, but the inability to interact with their being is palpable.
 
 I hope that Andrew can recover, but if not, I hope that his loving wife finds peace, and to know that his spirit, like those of adventurers before him, can be experienced in the solitude, wonder and exploration of nature he loved and admired so much.
 
