@@ -84,19 +84,6 @@
       </div>
     </div>
   {{ end }}
-
-  <!-- Trying this out, might need to remove this if it doesn't work -->
-  {{ with site.Params.googleAnalytics }}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('js', new Date());
- 
-      gtag('config', '{{ . }}');
-    </script>
-  {{ end }}
-
   </header>
 {{ else }}
   <div class="intro-header"></div>
