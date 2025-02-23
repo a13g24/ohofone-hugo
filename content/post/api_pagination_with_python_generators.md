@@ -193,7 +193,7 @@ def test_responses():
         URL,
         json={
             "pagination": {"previous": None, "current": 1, "next": 2},
-            "data": [{"data": "here"}, {"and": "here"}],
+            "data": [{"page_1_data": "here"}, {"and_page_1_data": "here"}],
         },
         status=200,
     )
@@ -203,7 +203,7 @@ def test_responses():
         URL,
         json={
             "pagination": {"previous": 1, "current": 2, "next": 3},
-            "data": [{"data": "there"}, {"and": "there"}],
+            "data": [{"page_2_data": "there"}, {"and_page_2_data": "there"}],
         },
         status=200,
     )
@@ -213,7 +213,7 @@ def test_responses():
         URL,
         json={
             "pagination": {"previous": 2, "current": 3, "next": None},
-            "data": [{"data": "everywhere"}, {"and": "everywhere"}],
+            "data": [{"page_3_data": "everywhere"}, {"and_page_3_data": "everywhere"}],
         },
         status=200,
     )
