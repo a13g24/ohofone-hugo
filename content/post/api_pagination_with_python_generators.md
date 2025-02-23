@@ -78,7 +78,7 @@ print(next(g)) # "driven"
 # their sequence (if it's finite), it yields a 
 # StopIteration exception. This is not the case
 # when driven by while/for loops or comprehensions
-print(next(g()))
+print(next(g))
 
 # Or more succinctly
 for s in generator():
