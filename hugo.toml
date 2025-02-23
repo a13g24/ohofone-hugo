@@ -3,6 +3,7 @@
 baseURL = "https://ohof.one"
 canonifyURLs = true
 languageCode = "en-us"
+googleAnalytics = "G-NFQ5WV7PS1"
 
 title = "OH of ONE"
 theme = "beautifulhugo"
