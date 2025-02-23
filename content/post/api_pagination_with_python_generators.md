@@ -69,10 +69,10 @@ def generator():
 		yield s
 
 g = generator()
-print(next(g())) # "I'm"
-print(next(g())) # "executed"
-print(next(g())) # "when"
-print(next(g())) # "driven"
+print(next(g)) # "I'm"
+print(next(g)) # "executed"
+print(next(g)) # "when"
+print(next(g)) # "driven"
 
 # Note that when generators reach the end of
 # their sequence (if it's finite), it yields a 
