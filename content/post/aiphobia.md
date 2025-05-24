@@ -4,7 +4,7 @@ draft: false
 title: "Aiphobia"
 katex: true
 summary: "A Call to Temper the Fear of AI"
-tags:
+tags: ["AI", "Technology", "Philosophy"]
 ---
 
 I really don't understand the aversion to AI from people in industry. Everyone from software engineers, artists, IT people, writers, film makers, and so on, seem to be heading for the hills over their fear of AI. I've come across this more frequently as the technolgy has matured and in conversation with friends and relatives who are in tech or design. Indeed, it's even come up recently at an appointment when my practitioner mentioned her husband (a software engineer), refuses to use AI, and it's like...why?
