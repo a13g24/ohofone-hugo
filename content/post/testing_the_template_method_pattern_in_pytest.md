@@ -280,7 +280,7 @@ a common interface. Employing this technique alse ensures each test subclass
 implements its own test for the template method itself (`process`) of the TM.
 
 We need only remember 2 things:
-1. Create a test class for each subcloss of `A`.
+1. Create a test class for each subclass of `A`.
 2. Create a factory for each subclass of `A`.
 
 This forms a Parallel Architecture of Class Testing (PACT). In this case, there's
@@ -296,4 +296,4 @@ This is why it's known as the 3PACT hierarchy.
 Using the 3PACT approach allows you to test the Template Method Pattern in a way that is both safe and elegant. By using an abstract factory to create instances of the concrete subclasses, you can ensure that your tests are focused on the behavior of the *Template Method* itself, while also allowing for easy extension when new subclasses are added. This approach minimizes the risk of forgetting to test new subclasses and ensures that your tests remain maintainable and clear. 
 
 ## References
-- Bijlsma, A., Passier, H.J.M, Pootjes, H.J., & Sturrman, S. (2018). Template Method test pattern. *Information Processing Letters*, 139, 8-12. https://doi.org/10.1016/j.ipl.2018.06.008
+- Bijlsma, A., Passier, H.J.M, Pootjes, H.J., & Sturrman, S. (2018). Template Method test pattern. *Information Processing Letters*, 139, 8-12. https://doi.org/10.1016/j.ipl.2018.06.008 access for free [here](https://research.sylviastuurman.nl/wp-content/uploads/2018/08/TEST_TEMPLATE_METHOD.pdf)
