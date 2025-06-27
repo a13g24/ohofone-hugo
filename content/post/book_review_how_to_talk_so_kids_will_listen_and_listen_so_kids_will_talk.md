@@ -32,3 +32,18 @@ All-in-all, underlying each strategy is empathy. One really needs to try to empa
 distress, verbalize that understanding, and proceed with your solution in that headspace.
 
 ## How to Engage Cooperation 
+
+Trying to push away your child's feelings, to "put them in a better state" or dismiss them outright, will pretty much 
+always backfire. A good strategy is to "prime" them for first accepting your help. To do this, one needs to empathize, 
+and to do that, the authors give some nice suggestions:
+
+1. Describe what you see or describe the problem. Like literally, describe what's the source of the problem without any
+implied tone showcasing your feelings on the matter e.g. "I see the clothes are on the floor."
+2. Give information. e.g. "Not feeding the dog means he gets really hungry.", "It really help if the clothes were in the
+hamper."
+3. Saying it with a single word. e.g. "Clothes!"
+4. Talk about your feelings. In other words don't say what's wrong with them, but instead relate it back to you. e.g. 
+"I get really frustrated and sad when I have to pick up all these clothes from the ground. It hurts my back."
+5. Write a note. This can be as simple as a sticky note on an often forgotten task they fail to do. Or even writing it
+in the fog of the mirror in the bathroom. So there's clever ways to do this.
+
